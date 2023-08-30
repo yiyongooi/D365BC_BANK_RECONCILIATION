@@ -1,0 +1,29 @@
+{
+  "id": "09be8a6d-80ae-4693-80bf-8aa20fd72cf1",
+  "name": "Recording Bank Reconciliation",
+  "publisher": "dataoutput.sg",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://dataoutput.sg",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 88020,
+      "to": 88029
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
